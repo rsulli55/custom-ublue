@@ -38,7 +38,7 @@ modules:
       - kdeconnectd
       - kde-connect
       - kf5-kirigami
-      - plasma-print-manager
+      - kde-print-manager
       - firewall-config
       - virt-manager
       # - micro
