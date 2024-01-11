@@ -39,8 +39,8 @@ modules:
       - system-config-printer
       - firewall-config
       - virt-manager
+      - qemu
       # - micro
-      # - starship
     remove:
       - firefox # default firefox removed in favor of flatpak
       - firefox-langpacks # langpacks needs to also be removed to prevent dependency problems
