@@ -40,6 +40,8 @@ modules:
       - firewall-config
       - virt-manager
       - qemu
+      - hyprland
+      - xdg-desktop-portal-hyprland
       # - micro
     remove:
       - firefox # default firefox removed in favor of flatpak
